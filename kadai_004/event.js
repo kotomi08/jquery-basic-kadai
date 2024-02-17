@@ -7,5 +7,5 @@ $(window).on('load', () => {
 // 画面をクスロールしたときに
 $(window).on('scroll', () => {
     // コメントをコンソールに出力
-    console.log('sclollイベントが発生しました');
+    console.log('scrollイベントが発生しました');
 });
